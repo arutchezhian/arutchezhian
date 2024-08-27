@@ -26,4 +26,9 @@
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-%23000000.svg?style=for-the-badge&logo=video-editing&logoColor=white)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF5733?logo=app-inventor&logoColor=white)](http://appinventor.mit.edu/)
+<br>
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArutchezhianC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArutchezhianC&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArutchezhianC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
