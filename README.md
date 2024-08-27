@@ -28,7 +28,4 @@
 [![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF5733?logo=app-inventor&logoColor=white)](http://appinventor.mit.edu/)
 <br>
 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArutchezhianC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArutchezhianC&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArutchezhianC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
