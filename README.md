@@ -28,6 +28,15 @@
 [![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF5733?logo=app-inventor&logoColor=white)](http://appinventor.mit.edu/)
 <br><u></u>
 📊 GitHub Stats:<br>
-![Arutchezhian's Stats](https://github-readme-stats.vercel.app/api?username=Arutchezhian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
-![Arutchezhian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arutchezhian&theme=vue-dark&hide_border=true)<br>
-![Arutchezhian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arutchezhian&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
+💫About Me :
+ 
+📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=arutchezhian&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arutchezhian&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arutchezhian&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=arutchezhian&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=arutchezhian&icon=0&color=0)](https://visitcount.itsvg.in)
