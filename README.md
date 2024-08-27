@@ -1,4 +1,4 @@
-<u>
+
 <h4>🌐 Socials:</h4>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/arutchezhian-c)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Google-Chrome&logoColor=white)](https://arutchezhian.github.io/Arut/) 
