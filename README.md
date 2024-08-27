@@ -1,5 +1,5 @@
 <u>✨About Us</u><br>
-🔭 I’m currently working on Front-End Development
+🔭 I’m currently working on PHP & WordPress
 🌱 I’m currently learning React.JS and Redux
 💬 Ask me about Graphic Designing and Programming
 ⚡ Fun fact I think I am CURIOUS
