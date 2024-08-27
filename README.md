@@ -1,4 +1,4 @@
-<u>✨About Us</u><br>
+<u>✨About Us:</u><br>
 🔭 I’m currently working on PHP & WordPress <br>
 🌱 I’m currently learning React.JS and Redux  <br>
 💬 Ask me about Graphic Designing and Programming  <br>
