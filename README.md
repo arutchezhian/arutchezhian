@@ -1,5 +1,6 @@
 
 🌐 Socials:
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/arutchezhian-c)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Google-Chrome&logoColor=white)](https://arutchezhian.github.io/Arut/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arut_chezhian/)
@@ -26,8 +27,8 @@
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-%23000000.svg?style=for-the-badge&logo=video-editing&logoColor=white)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF5733?logo=app-inventor&logoColor=white)](http://appinventor.mit.edu/)
-<br>
-📊 GitHub Stats:
-![Arutchezhian's Stats](https://github-readme-stats.vercel.app/api?username=Arutchezhian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Arutchezhian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arutchezhian&theme=vue-dark&hide_border=true)
-![Arutchezhian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arutchezhian&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br><u></u>
+📊 GitHub Stats:<br>
+![Arutchezhian's Stats](https://github-readme-stats.vercel.app/api?username=Arutchezhian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br>
+![Arutchezhian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arutchezhian&theme=vue-dark&hide_border=true)<br>
+![Arutchezhian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arutchezhian&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br>
