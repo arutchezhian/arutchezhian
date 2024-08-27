@@ -1,7 +1,7 @@
 <u>✨About Us</u><br>
-🔭 I’m currently working on PHP & WordPress
-🌱 I’m currently learning React.JS and Redux
-💬 Ask me about Graphic Designing and Programming
+🔭 I’m currently working on PHP & WordPress <br>
+🌱 I’m currently learning React.JS and Redux  <br>
+💬 Ask me about Graphic Designing and Programming  <br>
 ⚡ Fun fact I think I am CURIOUS
 <br>
 🌐 Socials:
