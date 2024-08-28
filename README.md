@@ -7,7 +7,7 @@
 🌐 Socials:
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/arutchezhian-c)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Google-Chrome&logoColor=white)](https://arutchezhian.github.io/Arut/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Google-Chrome&logoColor=white)](https://arutchezhian.github.io/Arut--Portfolio-/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arut_chezhian/)
 <br>
 <br>
